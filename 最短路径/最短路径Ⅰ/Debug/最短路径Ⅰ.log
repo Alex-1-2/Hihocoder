@@ -1,0 +1,7 @@
+﻿  最短路径Ⅰ.c
+F:\Hihocoder题库\最短路径\最短路径Ⅰ\最短路径Ⅰ.c(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\Hihocoder题库\最短路径\最短路径Ⅰ\最短路径Ⅰ.c(10,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+F:\Hihocoder题库\最短路径\最短路径Ⅰ\最短路径Ⅰ.c(24,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  最短路径Ⅰ.vcxproj -> F:\Hihocoder题库\最短路径\最短路径Ⅰ\Debug\最短路径Ⅰ.exe

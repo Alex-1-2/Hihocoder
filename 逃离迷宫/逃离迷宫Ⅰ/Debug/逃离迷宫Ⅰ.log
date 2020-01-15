@@ -1,0 +1,8 @@
+﻿  逃离迷宫Ⅰ.c
+F:\Hihocoder题库\逃离迷宫\逃离迷宫Ⅰ\逃离迷宫Ⅰ.c(8,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+F:\Hihocoder题库\逃离迷宫\逃离迷宫Ⅰ\逃离迷宫Ⅰ.c(11,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+F:\Hihocoder题库\逃离迷宫\逃离迷宫Ⅰ\逃离迷宫Ⅰ.c(13,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  逃离迷宫Ⅰ.vcxproj -> F:\Hihocoder题库\逃离迷宫\逃离迷宫Ⅰ\Debug\逃离迷宫Ⅰ.exe
